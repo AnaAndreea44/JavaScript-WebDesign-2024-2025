@@ -9,3 +9,4 @@ git push                               #trimiterea commitu-lui pe server
 
 #comenzi de status
 git --version                         #citeste versiunea de git actuala instalata
+
